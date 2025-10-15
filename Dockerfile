@@ -1,4 +1,4 @@
-FROM node:20-buster-slim
+FROM node:20-alpine
 
 ARG N8N_VERSION=1.115.3
 
